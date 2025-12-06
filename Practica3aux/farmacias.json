@@ -1,0 +1,65 @@
+[
+    {
+        "nombreFarmacia": "Farmacia Salud",
+        "sucursal": 1,
+        "direccion": "Av. Bolivia 123",
+        "medicamentos": [
+            {
+                "nombre": "Tapsin",
+                "codMedicamento": 101,
+                "tipo": "tos",
+                "precio": 12.5
+            },
+            {
+                "nombre": "BroncoStop",
+                "codMedicamento": 102,
+                "tipo": "tos",
+                "precio": 10.0
+            },
+            {
+                "nombre": "DolorFast",
+                "codMedicamento": 201,
+                "tipo": "dolor",
+                "precio": 8.0
+            }
+        ]
+    },
+    {
+        "nombreFarmacia": "Farmacenter",
+        "sucursal": 2,
+        "direccion": "Calle Real 45",
+        "medicamentos": [
+            {
+                "nombre": "Tapsin",
+                "codMedicamento": 103,
+                "tipo": "tos",
+                "precio": 13.0
+            },
+            {
+                "nombre": "Antibiocil",
+                "codMedicamento": 301,
+                "tipo": "antibiotico",
+                "precio": 25.0
+            }
+        ]
+    },
+    {
+        "nombreFarmacia": "Botica Central",
+        "sucursal": 3,
+        "direccion": "Av. Independencia 8",
+        "medicamentos": [
+            {
+                "nombre": "Calmaton",
+                "codMedicamento": 401,
+                "tipo": "dolor",
+                "precio": 9.5
+            },
+            {
+                "nombre": "JarabeX",
+                "codMedicamento": 402,
+                "tipo": "tos",
+                "precio": 11.0
+            }
+        ]
+    }
+]

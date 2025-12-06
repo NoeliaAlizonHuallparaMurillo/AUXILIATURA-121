@@ -1,0 +1,27 @@
+[
+    {
+        "codigo": 1,
+        "nombre": "Cuaderno",
+        "precio": 5.5
+    },
+    {
+        "codigo": 2,
+        "nombre": "L\u00e1piz",
+        "precio": 0.8
+    },
+    {
+        "codigo": 3,
+        "nombre": "Mochila",
+        "precio": 25.0
+    },
+    {
+        "codigo": 4,
+        "nombre": "Calculadora",
+        "precio": 45.99
+    },
+    {
+        "codigo": 100166,
+        "nombre": "galletas",
+        "precio": 50.0
+    }
+]

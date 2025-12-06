@@ -1,0 +1,22 @@
+[
+    {
+        "codCliente": 101,
+        "nombre": "Ana",
+        "apellido": "Perez"
+    },
+    {
+        "codCliente": 102,
+        "nombre": "Juan",
+        "apellido": "Gomez"
+    },
+    {
+        "codCliente": 103,
+        "nombre": "Luis",
+        "apellido": "Diaz"
+    },
+    {
+        "codCliente": 104,
+        "nombre": "Marta",
+        "apellido": "Quispe"
+    }
+]

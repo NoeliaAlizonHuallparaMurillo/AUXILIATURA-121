@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "Ana Perez",
+        "carnet": 1001,
+        "salario": 1500.0
+    },
+    {
+        "nombre": "Juan Gomez",
+        "carnet": 1002,
+        "salario": 2000.0
+    },
+    {
+        "nombre": "Luis Diaz",
+        "carnet": 1003,
+        "salario": 1800.0
+    },
+    {
+        "nombre": "Mar\u00eda Ruiz",
+        "carnet": 1004,
+        "salario": 2200.0
+    },
+    {
+        "nombre": "Noelia",
+        "carnet": 10016611,
+        "salario": 6500.0
+    }
+]

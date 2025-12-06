@@ -1,0 +1,12 @@
+[
+    {
+        "id": 100,
+        "nombre": "zooPro",
+        "animales": []
+    },
+    {
+        "id": 21,
+        "nombre": "proZoo",
+        "animales": []
+    }
+]

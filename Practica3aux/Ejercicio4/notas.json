@@ -1,0 +1,79 @@
+[
+    {
+        "materia": "Matematica",
+        "notaFinal": 18.5,
+        "estudiante": {
+            "ru": 1001,
+            "nombre": "Ana",
+            "paterno": "Perez",
+            "materno": "Lopez",
+            "edad": 19
+        }
+    },
+    {
+        "materia": "Programacion",
+        "notaFinal": 17.0,
+        "estudiante": {
+            "ru": 1001,
+            "nombre": "Ana",
+            "paterno": "Perez",
+            "materno": "Lopez",
+            "edad": 19
+        }
+    },
+    {
+        "materia": "Matematica",
+        "notaFinal": 19.0,
+        "estudiante": {
+            "ru": 1002,
+            "nombre": "Luis",
+            "paterno": "Garcia",
+            "materno": "Sanchez",
+            "edad": 20
+        }
+    },
+    {
+        "materia": "Programacion",
+        "notaFinal": 20.0,
+        "estudiante": {
+            "ru": 1003,
+            "nombre": "Marta",
+            "paterno": "Diaz",
+            "materno": "Quispe",
+            "edad": 21
+        }
+    },
+    {
+        "materia": "Fisica",
+        "notaFinal": 16.5,
+        "estudiante": {
+            "ru": 1002,
+            "nombre": "Luis",
+            "paterno": "Garcia",
+            "materno": "Sanchez",
+            "edad": 20
+        }
+    },
+    {
+        "materia": "matematica",
+        "notaFinal": 20.0,
+        "estudiante": {
+            "ru": 1764318,
+            "nombre": "noelia alizon",
+            "paterno": "huallpara",
+            "materno": "murillo",
+            "edad": 23
+        }
+    },
+    {
+        "materia": "programacion",
+        "notaFinal": 15.1,
+        "estudiante": {
+            "ru": 176431,
+            "nombre": "noelia",
+            "paterno": "huallpara",
+            "materno": "murillo",
+            "edad": 23
+        }
+    }
+]

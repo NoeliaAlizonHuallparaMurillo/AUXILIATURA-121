@@ -1,0 +1,98 @@
+[
+    {
+        "material": "Madera",
+        "nroCuerdas": 10,
+        "cuerdas": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "material": "Plastico",
+        "nroCuerdas": 8,
+        "cuerdas": [
+            true,
+            true,
+            false,
+            false,
+            true,
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    {
+        "material": "Madera",
+        "nroCuerdas": 6,
+        "cuerdas": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "material": "Metal",
+        "nroCuerdas": 10,
+        "cuerdas": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "material": "Madera",
+        "nroCuerdas": 9,
+        "cuerdas": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false
+        ]
+    },
+    {
+        "material": "Fibra",
+        "nroCuerdas": 4,
+        "cuerdas": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            true,
+            true,
+            true
+        ]
+    }
+]

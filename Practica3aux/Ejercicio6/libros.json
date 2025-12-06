@@ -1,0 +1,27 @@
+[
+    {
+        "codLibro": 1,
+        "titulo": "Programacion I",
+        "precio": 30.0
+    },
+    {
+        "codLibro": 2,
+        "titulo": "Matematicas Basicas",
+        "precio": 20.0
+    },
+    {
+        "codLibro": 3,
+        "titulo": "Algoritmos",
+        "precio": 45.5
+    },
+    {
+        "codLibro": 4,
+        "titulo": "Estructuras de Datos",
+        "precio": 50.0
+    },
+    {
+        "codLibro": 5,
+        "titulo": "Ingles Tecnico",
+        "precio": 15.0
+    }
+]
